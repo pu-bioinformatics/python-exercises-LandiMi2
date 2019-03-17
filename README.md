@@ -5,7 +5,7 @@ number of notebook exercise.
 
 Note that each notebook script has a description comment of what question solved. 
 
----`
+----
 
 # Extra Script 
 Still on the folder Script there is a script saved as bank_Mike_final.py, this has code that shows bank transaction like deposit, 
