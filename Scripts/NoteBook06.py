@@ -1,5 +1,10 @@
 #! /home/cofia/miniconda3/bin/python
 
+#Question - Write a function percentageGC that calculates the GC content of a DNA sequence
+#         - The function should return the %GC content
+#         - The Function should return a message if the provided sequence is not DNA (This should be checked by a different function, called by your function)
+
+
 #input sequence data mydna, yourdna and testdna
 
 mydna = "CAGTGATGATGACGAT"
