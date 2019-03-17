@@ -3,7 +3,7 @@
 The folder called **Script** contain python scripts for the **Notebook exercise from 02-06**, each script is named depending on the
 number of notebook exercise. 
 
-_Note that each notebook script has a description comment of what question solved._
+>_Note that each notebook script has a description comment of what question solved._
 
 ----
 
