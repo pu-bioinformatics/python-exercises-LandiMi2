@@ -1,10 +1,18 @@
-# python-exercises
+## Python-exercises
 
-For each of the exercises in in the Jupyter Notebooks, you are required to create a Python Script, approriately named and stored in the right directory. Take note that you will be graded on:
-- how you organize your directories
-- How well you document your code and repo
-- How you use Git and GitHub (informative commit message, etc)
-- And the correctness of your scripts
+The folder called **Script** contain python scripts for the **Notebook exercise from 02-06**, each script is named depending on the
+number of notebook exercise. 
+
+Note that each notebook script has a description comment of what question solved. 
+
+---`
+
+# Extra Script 
+Still on the folder Script there is a script saved as bank_Mike_final.py, this has code that shows bank transaction like deposit, 
+withdrawals and checking balance 
 
 
-Work through all the exercises to notebook 6
+`It was a fun!!!`
+
+
+
