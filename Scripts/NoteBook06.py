@@ -13,7 +13,7 @@ testdna = "ATFRACGATTGHAHYAK"
 
 #create a function that returns the percentage GC content form mydna and yourdna sequence data 
 
-def percent_GC(seq):
+def percent_GC(seq): ## Should firt test if the seqence is avalid DNA seq -2
     gc_count = seq.count('G') + seq.count('C')
     return 100 * (gc_count/len(seq))
 
@@ -24,7 +24,8 @@ proper_DNA="ATGC"
 def valid(sequence):
     for base in sequence: 
         if base not in proper_DNA: 
-            return "This is Not DNA sequence" 
+            return "This is Not DNA sequence" ##CK: This function should be called by the percent_GC -1
+            # so the return should be True or False 
     return "This is DNA sequence"     
 #creating a variable calling the function created to enable printing the results                
 testdna1 = valid(testdna)

@@ -1,4 +1,4 @@
-#!/home/cofia/miniconda3/bin/python
+#!/home/cofia/miniconda3/bin/python #CK: This shebang is specifci to your system
 
 acountbal = 50000
 choice = input("Please enter 'b' to check balance or 'w' to withdraw or deposit 'd': ")

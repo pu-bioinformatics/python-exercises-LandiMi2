@@ -15,4 +15,5 @@ withdrawals and checking balance
 `It was a fun!!!`
 
 
-
+## Comments
+This is good. Just need to spend more time with functions, and how to use them. 
